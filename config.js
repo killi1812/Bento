@@ -71,7 +71,7 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Deck Bulder',
+			name: 'Deck Builder',
 			icon: 'folder',
 			link: 'https://archidekt.com/',
 		},
