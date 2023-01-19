@@ -5,7 +5,7 @@
 
 const generateLayout = () => {
 	let firstButtonsContainer = `
-    <div class="buttonsContainer" id="buttons_1"></div>
+    <div class="buttonsContainer" id="buttons_1" ></div>
   `;
 	let secondButtonsContainer = `
     <div class="buttonsContainer" id="buttons_2"></div>
