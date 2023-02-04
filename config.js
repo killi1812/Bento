@@ -65,19 +65,20 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Card Market',
-			icon: 'shopping-cart',
-			link: 'https://www.cardmarket.com/en/Magic',
+			name: 'Open Weather',
+			icon: 'sun',
+			link: 'https://home.openweathermap.org/subscriptions',
+
 		},
 		{
 			id: '4',
-			name: 'Deck Builder',
-			icon: 'folder',
-			link: 'https://archidekt.com/',
+			name: 'Monkey Type',
+			icon: 'keyboard',
+			link: 'https://monkeytype.com/',
 		},
 		{
 			id: '5',
-			name: 'Mail',
+			name: 'Gmail',
 			icon: 'mail',
 			link: 'https://mail.google.com',
 		},
@@ -132,27 +133,28 @@ const CONFIG = {
 	// │  │└─┐ │ └─┐
 	// ┴─┘┴└─┘ ┴ └─┘
 
+	//
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'terminal',
+			icon: 'dices',
 			id: '1',
 			links: [
 				{
-					name: 'Arch Wiki',
-					link: 'https://wiki.archlinux.org/',
+					name: 'Card Market',
+					link: 'https://www.cardmarket.com/en/Magic',
 				},
 				{
-					name: 'Arch User Repo',
-					link: 'https://aur.archlinux.org/',
+					name: 'Deck Builder',
+					link: 'https://archidekt.com/',
 				},
 				{
-					name: 'Open Weather',
-					link: 'https://home.openweathermap.org/subscriptions',
+					name: 'EDHREC',
+					link: 'https://edhrec.com/',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'Mtg Meta',
+					link: 'https://www.mtggoldfish.com/metagame/standard#paper',
 				},
 			],
 		},
