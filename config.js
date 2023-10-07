@@ -159,24 +159,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'app-window',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Aconto',
+					link: 'https://uprise.aconto.app/',
 				},
 				{
-					name: 'Twitter',
-					link: 'https://twitter.com/home',
+					name: 'Swagger',
+					link: 'https://localhost:44379/swagger/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com/',
+					name: 'GitLab',
+					link: 'https://gitlab.com/',
 				},
 				{
-					name: 'Pinterest',
-					link: 'https://www.pinterest.com/',
+					name: 'Studenski Servis',
+					link: 'https://natjecaj.sczg.hr/student/login.ashx/',
 				},
 			],
 		},
