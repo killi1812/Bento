@@ -65,9 +65,9 @@ const CONFIG = {
     },
     {
       id: "3",
-      name: "Open Weather",
-      icon: "sun",
-      link: "https://home.openweathermap.org/subscriptions",
+      name: "Infoeduka",
+      icon: "graduation-cap",
+      link: "https://student.algebra.hr/digitalnareferada/#/login",
     },
     {
       id: "4",
