@@ -171,7 +171,7 @@ const CONFIG = {
         },
         {
           name: "GitLab",
-          link: "https://gitlab.com/",
+          link: "https://code.pointer.hr",
         },
         {
           name: "Studenski Servis",
